@@ -1,0 +1,13 @@
+<keymap version="1" name="Visual Studio 2022 Personal" parent="Visual Studio 2022">
+  <action id="BuildWholeSolutionAction">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="CancelBuildAction">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl cancel" />
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+  </action>
+  <action id="RebuildSolutionAction">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+</keymap>
