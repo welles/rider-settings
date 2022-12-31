@@ -8,6 +8,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
         </configuration>
       </debugger>
       <debugger id="ObjectiveC">
