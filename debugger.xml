@@ -7,7 +7,9 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="automaticallyRefreshWatches" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="evaluationTimeoutMs" value="30000" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
         </configuration>
       </debugger>
