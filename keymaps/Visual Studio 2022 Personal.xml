@@ -13,10 +13,15 @@
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
-    <keyboard-shortcut first-keystroke="ctrl #10000d6" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl #10000d6" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="Images.EditExternally" />
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
 </keymap>
