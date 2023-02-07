@@ -7,5 +7,6 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
+    <mask>*.config</mask>
   </component>
 </application>
