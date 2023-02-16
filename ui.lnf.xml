@@ -12,5 +12,6 @@
     <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
   </component>
 </application>
